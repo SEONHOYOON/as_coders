@@ -24,6 +24,8 @@ $ git checkout [branch name]
 ~~~
 
 3. local PC 에서 작업 후 add, commit, push 진행
+- 파일명은 해당 문제가 있는 폴더 내에서 solution_[my_nickname].py 로 작성
+- commit comment 는 yyyymmdd_[my_nickname] 으로 작성
 ~~~
 $ git add [file_path] / git add * / git add . (해당 폴더 내에서)
 $ git commit $m "[comment]"
