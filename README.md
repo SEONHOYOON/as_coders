@@ -2,6 +2,7 @@
 
 0. (windows 의 경우) git 다운로드
 ~~~
+/*** git clone 을 하는 경우에는 아래 명령어가 필요없음 ***/
 $ git init
 $ git status
 ~~~
